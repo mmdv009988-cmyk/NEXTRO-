@@ -5,12 +5,6 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
 {
         "device_id": "00a2407b125cff96",
         "key": "amir1",
@@ -24,9 +18,9 @@
         "Allowoffline": false
     },
 {
-        "device_id": "12f29f3aeaea534d",
-        "key": "nexpro6",
-        "expirydate": "15-06-2030",
-        "Allowoffline": false
-    }
+        "device_id": "12f29f3aeaea534d",
+        "key": "nexpro1",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+}
 ]
