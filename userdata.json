@@ -34,5 +34,11 @@
         "key": "nexpro19",
         "expirydate": "10-12-2026",
         "Allowoffline": false
+},
+{
+        "device_id": "cefe20ab2f554730",
+        "key": "nexpro100",
+        "expirydate": "10-12-2026",
+        "Allowoffline": false
 }
 ]
