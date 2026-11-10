@@ -22,5 +22,11 @@
         "key": "mmd10",
         "expirydate": "15-06-2030",
         "Allowoffline": false
-    }
+    },
+{
+        "device_id": "12f29f3aeaea534d",
+        "key": "nexpro6",
+        "expirydate": "15-06-2030",
+        "Allowoffline": false
+    }
 ]
