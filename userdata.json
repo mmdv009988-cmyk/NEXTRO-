@@ -52,5 +52,11 @@
         "key": "nexpro1001",
         "expirydate": "10-12-2026",
         "Allowoffline": false
+},
+{
+        "device_id": "24d1b418b18fd442",
+        "key": "mamali1",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
 }
 ]
