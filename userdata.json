@@ -76,5 +76,11 @@
         "key": "yoozkir1",
         "expirydate": "15-06-2029",
         "Allowoffline": false
+},
+{
+        "device_id": "42e9349ac06c0490",
+        "key": "nexpro900",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
 }
 ]
