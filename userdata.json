@@ -100,5 +100,11 @@
         "key": "nexpro770",
         "expirydate": "15-06-2029",
         "Allowoffline": false
+},
+{
+        "device_id": "a75bbe130220ae01",
+        "key": "parisa1001",
+        "expirydate": "13-12-2026",
+        "Allowoffline": false
 }
 ]
