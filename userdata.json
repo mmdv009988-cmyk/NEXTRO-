@@ -118,5 +118,11 @@
         "key": "nexpro100f",
         "expirydate": "15-06-2029",
         "Allowoffline": false
+},
+{
+        "device_id": "4978b3b294434f83",
+        "key": "nexpro3pan",
+        "expirydate": "20-12-2026",
+        "Allowoffline": false
 }
 ]
