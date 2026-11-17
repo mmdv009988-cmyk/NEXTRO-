@@ -99,7 +99,7 @@
         "device_id": "bf17ec2df6545653",
         "key": "nexpro770",
         "expirydate": "15-06-2029",
-        "Allowoffline": false
+        "Allowoffline": false 
 },
 {
         "device_id": "a75bbe130220ae01",
@@ -110,6 +110,12 @@
 {
         "device_id": "aac0972a0008b7f6",
         "key": "nexpro77f",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+},
+{
+        "device_id": "9eb23b655a0e4c29",
+        "key": "nexpro100f",
         "expirydate": "15-06-2029",
         "Allowoffline": false
 }
