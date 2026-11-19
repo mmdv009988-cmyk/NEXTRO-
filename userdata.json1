@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+{
+        "device_id": "00a2545d9914854d",
+        "key": "nexpro00",
+        "expirydate": "15-06-2030",
+        "Allowoffline": false
     }
 ]
